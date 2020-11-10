@@ -1,4 +1,4 @@
-# Android-MachineLearnigKit
+# Android-MachineLearnigKit-Face-Detection
 
 Machine Learning Face Detection
 
